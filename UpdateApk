@@ -1,14 +1,14 @@
 {
-  "show": false,
+  "show": true,
   "force": true,
-  "version_name": "2.0.0",
+  "version_name": "8.0.1.Ultimate Edition Pro",
   "version_code": 800002026,
   "title": "New Update Available! 🚀",
   "message": "We've added new features and fixed bugs. Update now for the best experience!",
   "update_url": "https://t.me/UnknownModzOfficial",
   "changelog": [
     "✅ New UI design",
-    "🐛 Bug fixes",
+    "🪲 Bug fixes",
     "⚡️ Performance improvements"
   ]
 }
